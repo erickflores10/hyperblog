@@ -62,3 +62,7 @@ button[type="button"] {
     background: #004aa9;
     color: #fff;
 }
+
+main section:nth-child(2) {
+    background: #999;
+}
